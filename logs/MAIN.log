@@ -1,0 +1,160 @@
+2026-04-26 21:58:50,117 | MAIN | INFO | Loading cameras into Redis
+2026-04-26 21:58:50,219 | MAIN | INFO | Loaded 4 cameras
+2026-04-26 22:45:01,260 | MAIN | INFO | Loading cameras into Redis
+2026-04-26 22:45:01,342 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:04:52,183 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:04:52,307 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:20:13,520 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:20:13,576 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:28:46,958 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:28:47,005 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:35:20,619 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:35:20,666 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:41:33,398 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:41:33,447 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 20:52:55,641 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 20:52:55,673 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 21:02:30,290 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 21:02:30,343 | MAIN | INFO | Loaded 4 cameras
+2026-04-29 23:52:23,465 | MAIN | INFO | Loading cameras into Redis
+2026-04-29 23:52:23,552 | MAIN | INFO | Loaded 4 cameras
+2026-04-30 14:03:28,477 | MAIN | INFO | Loading cameras into Redis
+2026-04-30 14:03:28,535 | MAIN | INFO | Loaded 4 cameras
+2026-04-30 14:18:02,947 | MAIN | INFO | Loading cameras into Redis
+2026-04-30 14:18:03,003 | MAIN | INFO | Loaded 4 cameras
+2026-04-30 14:48:54,576 | MAIN | INFO | Loading cameras into Redis
+2026-04-30 14:48:54,656 | MAIN | INFO | Loaded 4 cameras
+2026-04-30 14:57:44,381 | MAIN | INFO | Loading cameras into Redis
+2026-04-30 14:57:44,437 | MAIN | INFO | Loaded 4 cameras
+2026-05-05 11:54:44,065 | MAIN | INFO | Loading cameras into Redis
+2026-05-05 11:54:44,162 | MAIN | INFO | Loaded 4 cameras
+2026-05-05 11:58:24,523 | MAIN | INFO | Loading cameras into Redis
+2026-05-05 11:58:24,587 | MAIN | INFO | Loaded 4 cameras
+2026-05-05 14:46:14,008 | MAIN | INFO | Loading cameras into Redis
+2026-05-05 14:46:14,113 | MAIN | INFO | Loaded 4 cameras
+2026-05-09 23:16:47,329 | MAIN | INFO | Loading cameras into Redis
+2026-05-09 23:16:47,380 | MAIN | INFO | Loaded 4 cameras
+2026-05-09 23:33:20,897 | MAIN | INFO | Loading cameras into Redis
+2026-05-09 23:33:20,935 | MAIN | INFO | Loaded 4 cameras
+2026-05-09 23:36:06,346 | MAIN | INFO | Loading cameras into Redis
+2026-05-09 23:36:06,387 | MAIN | INFO | Loaded 4 cameras
+2026-05-09 23:45:11,139 | MAIN | INFO | Loading cameras into Redis
+2026-05-09 23:45:11,191 | MAIN | INFO | Loaded 4 cameras
+2026-05-09 23:52:32,949 | MAIN | INFO | Loading cameras into Redis
+2026-05-09 23:52:33,009 | MAIN | INFO | Loaded 4 cameras
+2026-05-10 00:18:16,212 | MAIN | INFO | Loading cameras into Redis
+2026-05-10 00:18:16,260 | MAIN | INFO | Loaded 4 cameras
+2026-05-10 00:21:32,574 | MAIN | INFO | Loading cameras into Redis
+2026-05-10 00:21:32,613 | MAIN | INFO | Loaded 4 cameras
+2026-05-10 00:30:49,506 | MAIN | INFO | Loading cameras into Redis
+2026-05-10 00:30:49,539 | MAIN | INFO | Loaded 4 cameras
+2026-05-10 12:12:17,687 | MAIN | INFO | Loading cameras into Redis
+2026-05-10 12:12:17,759 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 14:22:27,769 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 14:22:27,857 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 14:46:34,529 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 14:46:34,571 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 14:55:19,535 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 14:55:19,567 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 15:02:12,274 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 15:02:12,343 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 15:07:49,301 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 15:07:49,365 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 15:29:03,390 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 15:29:03,449 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 15:36:03,442 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 15:36:03,486 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 16:01:38,721 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 16:01:38,768 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 19:37:40,028 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 19:38:02,797 | MAIN | INFO | Error in Line no : 15: due to object of type 'NoneType' has no len()
+2026-05-11 19:40:00,836 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 19:40:00,880 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 20:38:18,299 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 20:38:18,372 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 20:41:19,422 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 20:41:19,486 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 20:49:09,665 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 20:49:09,711 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 20:58:52,193 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 20:58:52,239 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 22:52:39,206 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 22:52:39,268 | MAIN | INFO | Loaded 4 cameras
+2026-05-11 23:14:19,965 | MAIN | INFO | Loading cameras into Redis
+2026-05-11 23:14:20,027 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 00:05:40,977 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 00:05:41,083 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 00:24:46,089 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 00:24:46,130 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 00:35:05,774 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 00:35:05,843 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 11:18:07,696 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 11:18:07,755 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 11:20:19,623 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 11:20:19,661 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 14:11:26,988 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 14:11:27,067 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 15:02:14,201 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 15:02:14,294 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 15:29:23,383 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 15:29:23,420 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 17:00:09,534 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 17:00:09,599 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 17:16:46,805 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 17:16:46,854 | MAIN | INFO | Loaded 4 cameras
+2026-05-12 17:32:57,600 | MAIN | INFO | Loading cameras into Redis
+2026-05-12 17:32:57,653 | MAIN | INFO | Loaded 4 cameras
+2026-05-18 20:15:36,347 | MAIN | INFO | Loading cameras into Redis
+2026-05-18 20:15:58,051 | MAIN | INFO | Error in Line no : 15: due to object of type 'NoneType' has no len()
+2026-05-18 20:16:40,953 | MAIN | INFO | Loading cameras into Redis
+2026-05-18 20:16:41,052 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 20:10:22,490 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 20:10:22,588 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 20:16:43,568 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 20:16:43,625 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 20:49:58,230 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 20:49:58,286 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 21:12:45,453 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 21:12:45,510 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 22:03:47,560 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 22:03:47,626 | MAIN | INFO | Loaded 4 cameras
+2026-05-19 22:34:16,908 | MAIN | INFO | Loading cameras into Redis
+2026-05-19 22:34:16,954 | MAIN | INFO | Loaded 4 cameras
+2026-05-20 22:22:12,568 | MAIN | INFO | Loading cameras into Redis
+2026-05-20 22:22:12,676 | MAIN | INFO | Loaded 4 cameras
+2026-05-20 22:56:24,467 | MAIN | INFO | Loading cameras into Redis
+2026-05-20 22:56:24,499 | MAIN | INFO | Loaded 4 cameras
+2026-05-22 11:26:40,924 | MAIN | INFO | Loading cameras into Redis
+2026-05-22 11:26:40,989 | MAIN | INFO | Loaded 4 cameras
+2026-05-22 12:35:25,731 | MAIN | INFO | Loading cameras into Redis
+2026-05-22 12:35:25,837 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 13:19:18,148 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 13:19:18,203 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 13:39:25,509 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 13:39:25,555 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 17:53:42,686 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 17:53:42,778 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 18:12:41,771 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 18:12:41,838 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 18:20:17,813 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 18:20:17,863 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 18:48:39,049 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 18:48:39,107 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 21:05:57,772 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 21:05:57,862 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 21:54:52,383 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 21:54:52,450 | MAIN | INFO | Loaded 4 cameras
+2026-06-01 22:01:37,253 | MAIN | INFO | Loading cameras into Redis
+2026-06-01 22:01:37,365 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 10:24:36,792 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 10:24:36,884 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 11:00:24,541 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 11:00:24,663 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 11:40:02,089 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 11:40:02,143 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 12:13:24,706 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 12:13:24,780 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 12:50:53,479 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 12:50:53,523 | MAIN | INFO | Loaded 4 cameras
+2026-06-02 14:20:35,131 | MAIN | INFO | Loading cameras into Redis
+2026-06-02 14:20:35,196 | MAIN | INFO | Loaded 4 cameras

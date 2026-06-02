@@ -1,0 +1,449 @@
+2026-04-26 21:58:51,425 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-26 21:58:51,425 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-26 21:58:51,425 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-26 21:58:51,425 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-26 22:00:12,049 | CAMERA_WORKER | INFO | Worker completed
+2026-04-26 22:00:33,556 | CAMERA_WORKER | INFO | Worker completed
+2026-04-26 22:45:02,649 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-26 22:45:02,649 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-26 22:45:02,677 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-26 22:45:02,684 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-26 22:46:38,654 | CAMERA_WORKER | INFO | Worker completed
+2026-04-26 22:47:06,185 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:04:55,341 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:04:55,346 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:04:55,711 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:04:55,714 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:06:36,795 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:07:03,799 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:20:15,142 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:20:15,145 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:20:15,180 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:20:15,188 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:21:50,505 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:22:17,641 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:28:48,466 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:28:48,466 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:28:48,485 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:28:48,488 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:30:24,326 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:30:51,763 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:35:22,098 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:35:22,098 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:35:22,100 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:35:22,102 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:36:57,567 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:37:25,732 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:41:34,707 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:41:34,711 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:41:34,726 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:41:34,726 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:43:10,027 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:43:36,754 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:52:56,947 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 20:52:56,947 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 20:52:56,947 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 20:52:56,963 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 20:54:32,417 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 20:55:00,196 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 21:02:31,542 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 21:02:31,545 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 21:02:31,553 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 21:02:31,559 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 21:04:06,933 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 21:04:34,061 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 23:52:24,664 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-29 23:52:24,664 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-29 23:52:24,678 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-29 23:52:24,678 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-29 23:54:00,113 | CAMERA_WORKER | INFO | Worker completed
+2026-04-29 23:54:27,908 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:03:29,889 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-30 14:03:29,889 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-30 14:03:29,891 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-30 14:03:29,891 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-30 14:05:06,294 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:05:33,611 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:18:04,353 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-30 14:18:04,353 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-30 14:18:04,358 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-30 14:18:04,358 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-30 14:19:42,116 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:20:09,567 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:48:55,993 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-30 14:48:55,993 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-30 14:48:56,017 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-30 14:48:56,019 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-30 14:50:31,285 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:50:58,461 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:57:45,822 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-04-30 14:57:45,822 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-04-30 14:57:45,834 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-04-30 14:57:45,839 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-04-30 14:59:20,587 | CAMERA_WORKER | INFO | Worker completed
+2026-04-30 14:59:47,647 | CAMERA_WORKER | INFO | Worker completed
+2026-05-05 11:54:45,809 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-05 11:54:45,813 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-05 11:54:45,813 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-05 11:54:45,816 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-05 11:56:37,118 | CAMERA_WORKER | INFO | Worker completed
+2026-05-05 11:57:03,206 | CAMERA_WORKER | INFO | Worker completed
+2026-05-05 11:58:26,110 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-05 11:58:26,118 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-05 11:58:26,205 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-05 11:58:26,208 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-05 12:00:01,659 | CAMERA_WORKER | INFO | Worker completed
+2026-05-05 12:00:30,058 | CAMERA_WORKER | INFO | Worker completed
+2026-05-05 14:46:15,441 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-05 14:46:15,444 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-05 14:46:15,447 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-05 14:47:53,923 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:16:48,693 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-09 23:16:48,705 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-09 23:16:48,705 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-09 23:18:24,378 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:18:51,466 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:33:22,175 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-09 23:33:22,175 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-09 23:33:22,183 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-09 23:33:22,183 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-09 23:34:57,590 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:35:25,624 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:36:07,587 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-09 23:36:07,591 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-09 23:36:07,601 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-09 23:36:07,604 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-09 23:37:43,232 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:38:11,139 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:45:12,478 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-09 23:45:12,485 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-09 23:45:12,485 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-09 23:45:12,493 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-09 23:46:47,986 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:47:15,547 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:52:34,391 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-09 23:52:34,397 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-09 23:52:34,397 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-09 23:52:34,397 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-09 23:54:10,229 | CAMERA_WORKER | INFO | Worker completed
+2026-05-09 23:54:38,131 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:18:17,320 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-10 00:18:17,320 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-10 00:18:17,332 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-10 00:18:17,332 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-10 00:19:54,386 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:20:21,880 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:21:33,750 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-10 00:21:33,750 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-10 00:21:33,763 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-10 00:21:33,763 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-10 00:23:10,352 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:23:38,365 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:30:50,707 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-10 00:30:50,708 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-10 00:30:50,709 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-10 00:30:50,710 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-10 00:32:27,055 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 00:32:54,849 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 12:12:19,068 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-10 12:12:19,081 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-10 12:12:19,081 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-10 12:12:19,084 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-10 12:13:55,189 | CAMERA_WORKER | INFO | Worker completed
+2026-05-10 12:14:22,745 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:22:29,240 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 14:22:29,253 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 14:22:29,253 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 14:22:29,257 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 14:24:05,587 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:24:31,923 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:46:35,994 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 14:46:35,994 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 14:46:35,994 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 14:46:35,994 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 14:48:10,089 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:48:38,377 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:55:20,986 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 14:55:20,990 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 14:55:20,996 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 14:55:21,000 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 14:56:56,554 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 14:57:24,467 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:02:13,690 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 15:02:13,690 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 15:02:13,706 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 15:02:13,706 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 15:03:48,692 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:04:16,655 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:07:50,735 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 15:07:50,748 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 15:07:50,779 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 15:07:50,783 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 15:09:27,989 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:09:56,730 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:29:04,981 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 15:29:04,981 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 15:29:04,985 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 15:30:41,272 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:31:09,300 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:36:04,634 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 15:36:04,650 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 15:36:04,650 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 15:36:04,650 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 15:37:40,594 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 15:38:09,426 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 16:01:39,942 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 16:01:39,942 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 16:01:39,949 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 16:01:39,950 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 16:03:16,082 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 16:03:44,045 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 19:40:02,295 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 19:40:02,307 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 19:40:02,309 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 19:41:37,833 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 19:42:04,711 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:38:19,548 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 20:38:19,548 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 20:38:19,548 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 20:38:19,548 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 20:39:54,787 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:40:22,463 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:41:20,823 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 20:41:20,823 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 20:41:20,823 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 20:42:56,480 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:43:24,495 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:49:10,990 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 20:49:10,990 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 20:49:10,995 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 20:50:46,583 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:51:14,514 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 20:58:53,450 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 20:58:53,463 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 20:58:53,463 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 20:58:53,467 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 21:00:32,930 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 21:00:59,880 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 22:52:40,388 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 22:52:40,400 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 22:52:40,400 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 22:52:40,454 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 22:52:40,485 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 23:14:21,142 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-11 23:14:21,142 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-11 23:14:21,186 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-11 23:14:21,190 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-11 23:15:58,191 | CAMERA_WORKER | INFO | Worker completed
+2026-05-11 23:16:25,871 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:05:42,327 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 00:05:42,330 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 00:05:42,330 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 00:05:42,330 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 00:07:18,098 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:07:45,719 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:24:47,344 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 00:24:47,350 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 00:24:47,358 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 00:24:47,358 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 00:26:32,519 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:27:00,322 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:35:07,098 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 00:35:07,100 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 00:35:07,129 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 00:35:07,129 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 00:36:42,490 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 00:37:10,192 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 11:18:08,961 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 11:18:08,971 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 11:18:08,971 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 11:18:08,976 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 11:20:20,894 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 11:20:20,898 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 11:20:20,900 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 11:20:20,902 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 11:21:56,676 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 11:22:23,746 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 14:11:28,423 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 14:11:28,423 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 14:11:28,428 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 14:11:28,428 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 14:13:04,024 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 14:13:31,264 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 15:02:15,633 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 15:02:15,635 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 15:02:15,645 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 15:02:15,647 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 15:03:52,680 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 15:04:20,719 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 15:29:24,604 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 15:29:24,608 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 15:29:24,638 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 15:29:24,642 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 15:31:00,603 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 15:31:29,219 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 17:00:10,730 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 17:00:10,733 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 17:00:10,757 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 17:00:10,761 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 17:01:45,723 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 17:02:13,203 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 17:16:48,236 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 17:16:48,240 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-12 17:16:48,253 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 17:16:48,256 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 17:18:22,315 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 17:18:49,928 | CAMERA_WORKER | INFO | Worker completed
+2026-05-12 17:32:59,814 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-12 17:32:59,818 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-12 17:32:59,894 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-12 17:32:59,898 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-18 20:16:42,370 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-18 20:16:42,370 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-18 20:16:42,381 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-18 20:16:42,381 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-18 20:18:20,737 | CAMERA_WORKER | INFO | Worker completed
+2026-05-18 20:18:46,821 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:10:24,000 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-19 20:10:24,004 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 20:10:24,022 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 20:10:24,024 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 20:12:00,281 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:12:28,349 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:16:44,962 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 20:16:44,971 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 20:16:44,985 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-19 20:16:44,985 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 20:18:21,160 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:18:49,256 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:49:59,526 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 20:49:59,526 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 20:49:59,531 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-19 20:49:59,531 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 20:51:34,940 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 20:52:03,013 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 21:12:46,560 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-19 21:12:46,562 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 21:12:46,564 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 21:12:46,567 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 21:14:29,750 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 21:14:57,986 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 22:03:48,998 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 22:03:49,015 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 22:03:49,015 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 22:05:25,074 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 22:05:52,957 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 22:34:18,132 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-19 22:34:18,138 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-19 22:34:18,138 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-19 22:34:18,138 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-19 22:35:53,384 | CAMERA_WORKER | INFO | Worker completed
+2026-05-19 22:36:21,229 | CAMERA_WORKER | INFO | Worker completed
+2026-05-20 22:22:13,844 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-20 22:22:13,844 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-20 22:22:13,854 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-20 22:22:13,858 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-20 22:23:51,995 | CAMERA_WORKER | INFO | Worker completed
+2026-05-20 22:24:21,184 | CAMERA_WORKER | INFO | Worker completed
+2026-05-20 22:56:25,435 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-20 22:56:25,435 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-20 22:56:25,435 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-20 22:56:25,435 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-20 22:58:02,127 | CAMERA_WORKER | INFO | Worker completed
+2026-05-20 22:58:30,332 | CAMERA_WORKER | INFO | Worker completed
+2026-05-22 11:26:43,042 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-22 11:26:43,275 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-22 11:26:43,279 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-22 11:28:19,078 | CAMERA_WORKER | INFO | Worker completed
+2026-05-22 11:28:47,527 | CAMERA_WORKER | INFO | Worker completed
+2026-05-22 12:35:27,332 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-05-22 12:35:27,342 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-05-22 12:35:27,347 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-05-22 12:35:27,356 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-05-22 12:37:04,424 | CAMERA_WORKER | INFO | Worker completed
+2026-05-22 12:37:31,575 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 13:19:18,878 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 13:19:18,883 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 13:19:18,883 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 13:19:18,886 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 13:20:55,036 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 13:21:22,586 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 13:39:26,375 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 13:39:26,378 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 13:39:26,384 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 13:39:26,391 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 17:53:43,602 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 17:53:43,611 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 17:53:43,613 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 17:55:21,482 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 17:55:49,434 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:12:42,745 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 18:12:42,748 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 18:12:42,764 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 18:12:42,767 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 18:14:18,681 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:14:48,844 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:20:18,661 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 18:20:18,665 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 18:20:18,675 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 18:20:18,677 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 18:21:54,422 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:22:22,773 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:48:39,917 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 18:48:39,919 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 18:48:39,936 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 18:48:39,939 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 18:50:14,991 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 18:50:42,875 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 21:05:58,711 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 21:05:58,716 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 21:05:58,719 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 21:05:58,723 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 21:07:34,477 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 21:08:02,931 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 21:54:53,111 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 21:54:53,111 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 21:54:53,111 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 21:54:53,123 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 21:56:28,022 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 21:56:55,142 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 22:01:38,153 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-01 22:01:38,159 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-01 22:01:38,159 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-01 22:01:38,169 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-01 22:03:12,705 | CAMERA_WORKER | INFO | Worker completed
+2026-06-01 22:03:40,017 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 10:24:37,559 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 10:24:37,583 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 10:24:37,583 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-02 10:24:37,586 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 10:26:13,065 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 10:26:40,892 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 11:00:25,516 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 11:00:25,520 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 11:00:25,548 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-02 11:00:25,548 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 11:02:01,047 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 11:02:30,095 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 11:40:02,977 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 11:40:02,977 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 11:40:02,977 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 11:41:38,521 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 11:42:06,565 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 12:13:25,496 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 12:13:25,499 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-02 12:13:25,499 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 12:13:25,499 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 12:15:01,156 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 12:15:30,357 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 12:50:54,181 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 12:50:54,181 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 12:50:54,181 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-02 12:50:54,197 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 12:52:32,177 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 12:53:01,753 | CAMERA_WORKER | INFO | Worker completed
+2026-06-02 14:20:35,924 | CAMERA_WORKER | INFO | Starting thread for c3
+2026-06-02 14:20:35,924 | CAMERA_WORKER | INFO | Starting thread for c1
+2026-06-02 14:20:35,924 | CAMERA_WORKER | INFO | Starting thread for c4
+2026-06-02 14:20:35,933 | CAMERA_WORKER | INFO | Starting thread for c2
+2026-06-02 14:22:13,117 | CAMERA_WORKER | INFO | Worker completed
