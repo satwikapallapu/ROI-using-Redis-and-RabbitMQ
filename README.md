@@ -445,4 +445,4 @@ Passionate about building AI-powered solutions in Computer Vision, Machine Learn
 
 💼 **LinkedIn:** https://www.linkedin.com/in/sathwika-pallapu-a32bba355
 
-⭐ If you found this project useful, consider giving it a Star on GitHub!
+🎯 Always exploring new challenges in AI, Machine Learning, Deep Learning, and Intelligent Video Analytics.
