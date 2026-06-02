@@ -78,13 +78,13 @@ YOLOv7 Segmentation              YOLOv7 Object Detection
 
 A custom YOLOv7 model was trained using an annotated dataset containing:
 
-* 🚶 Person
-* 🚗 Car
-* 🏍️ Bike
-* 🦺 Helmet
-* 👕 Jacket
-* 🔥 Fire
-* 🌫️ Smoke
+*  Person
+*  Car
+*  Bike
+*  Helmet
+*  Jacket
+*  Fire
+*  Smoke
 
 ### 📂 Training Pipeline
 
@@ -131,10 +131,10 @@ To reduce repeated file access and improve startup performance, configurations a
 
 ### Benefits
 
-* 🚀 Faster configuration retrieval
-* 📦 Centralized management
-* 💾 Reduced disk operations
-* 📈 Better scalability
+*  Faster configuration retrieval
+*  Centralized management
+*  Reduced disk operations
+*  Better scalability
 
 ---
 
@@ -157,8 +157,8 @@ Frames are transmitted through RabbitMQ using routing keys.
 
 Depending on camera configuration, frames are routed to:
 
-* 👤 Person Segmentation Queue
-* 🤖 Object Detection Queue
+*  Person Segmentation Queue
+*  Object Detection Queue
 
 This enables independent processing pipelines.
 
@@ -369,16 +369,16 @@ Validated detections are stored inside Redis for rapid retrieval and downstream 
 
 # 🚀 Future Improvements
 
-* 🎯 Multi-Object Tracking (DeepSORT)
-* 🚨 Intrusion Detection
-* 🚗 Vehicle Counting
-* 📧 Email Notifications
-* 📱 SMS Alerts
-* 📊 Dashboard Visualization
-* 📈 Grafana Monitoring
-* 🐳 Docker Deployment
-* ☸️ Kubernetes Deployment
-* ☁️ AWS / Azure / GCP Deployment
+*  Multi-Object Tracking (DeepSORT)
+*  Intrusion Detection
+*  Vehicle Counting
+*  Email Notifications
+*  SMS Alerts
+*  Dashboard Visualization
+*  Grafana Monitoring
+*  Docker Deployment
+*  Kubernetes Deployment
+*  AWS / Azure / GCP Deployment
 
 ---
 
@@ -435,14 +435,14 @@ This project showcases the practical implementation of AI-powered video analytic
 
 # 👨‍💻 Author
 
-## Sai Prasanthi N
+## Pallapu Sathwika
 
 **Data Science | AI/ML Engineer**
 
 Passionate about building AI-powered solutions in Computer Vision, Machine Learning, Deep Learning, Intelligent Video Analytics, and Distributed Systems.
 
-📧 **Email:** [nedurusaiprasanthi13@gmail.com](mailto:nedurusaiprasanthi13@gmail.com)
+📧 **Email:** satwikapallapu5@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sai-prasanthi-neduru-375b99303
+💼 **LinkedIn:** https://www.linkedin.com/in/sathwika-pallapu-a32bba355
 
 ⭐ If you found this project useful, consider giving it a Star on GitHub!
