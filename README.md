@@ -258,9 +258,16 @@ Applications:
 
 # 📍 ROI-Based Validation
 
-One of the core features of this platform is ROI-based event filtering.
+One of the key features of this platform is ROI (Region of Interest) Based Validation.
 
-Every detection undergoes spatial validation before being stored.
+After objects are detected, the system checks whether they are present inside a predefined monitoring area (ROI). Only detections inside the ROI are considered valid events and stored for further processing.
+
+# 🔍 ROI Workflow
+Detect objects using YOLOv7.
+Extract bounding box coordinates.
+Check whether the detected object is inside the ROI.
+Store valid events in Redis.
+Ignore detections outside the ROI.
 
 ```text
 Object Detected
